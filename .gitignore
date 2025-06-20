@@ -31,3 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
+microservices/customer-microservice/logs/customer-microservice.log
